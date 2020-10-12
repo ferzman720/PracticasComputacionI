@@ -1,0 +1,3 @@
+/Users/fernandanayeliguzmanrodriguez/CLionProjects/calculadora.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fernandanayeliguzmanrodriguez/CLionProjects/calculadora.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fernandanayeliguzmanrodriguez/CLionProjects/calculadora.cpp/cmake-build-debug/CMakeFiles/Calculadora_cpp.dir
