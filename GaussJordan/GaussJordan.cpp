@@ -85,10 +85,9 @@ void ImprimirMatriz(matriz & miMatriz)
 {
     int variables = miMatriz.size();
     for (int i = 0; i < variables; i++) {
-        cout << "[ ";
         for (int j = 0; j < variables + 1; j++)
             cout << miMatriz[i][j] << '\t';
-        cout << "]\n";
+       
     }
 }
 
@@ -213,3 +212,4 @@ void CambiarLineas(matriz & miMatriz)
         miMatriz[2][j]=temp[0][j];
     }
 }
+
