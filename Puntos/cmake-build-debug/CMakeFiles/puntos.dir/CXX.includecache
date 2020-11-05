@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/puntos/Punto.cpp
+Punto.h
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/puntos/Punto.h
+math.h
+-
+
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/puntos/Punto.h
+
