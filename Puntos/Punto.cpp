@@ -32,7 +32,7 @@ float Punto2D::RotarRespectoAlOrigen(float temp1) {
     temp1 = (temp1 * PI)/180;
     ay1 = x * cos(temp1) - y * sin(temp1);
     ay2 = x * sin(temp1) + y * cos(temp1);
-    x = ay;
+    x = ay1;
     y = ay2;
     return x, y;
 }
