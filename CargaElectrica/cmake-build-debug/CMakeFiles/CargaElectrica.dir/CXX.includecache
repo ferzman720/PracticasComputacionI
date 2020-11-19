@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/CargaElectrica/Grupo.cpp
+Grupo.h
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/CargaElectrica/Grupo.h
+string
+-
+
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/CargaElectrica/Grupo.h
+string
+-
+
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/CargaElectrica/main.cpp
+iostream
+-
+array
+-
+string
+-
+Grupo.h
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/CargaElectrica/Grupo.h
+

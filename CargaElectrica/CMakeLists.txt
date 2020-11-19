@@ -3,4 +3,4 @@ project(CargaElectrica)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CargaElectrica main.cpp)
+add_executable(CargaElectrica main.cpp Grupo.h Grupo.cpp)

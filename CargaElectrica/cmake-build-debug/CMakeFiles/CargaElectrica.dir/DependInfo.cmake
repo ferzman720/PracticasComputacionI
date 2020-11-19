@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/CargaElectrica/Grupo.cpp" "/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/CargaElectrica/cmake-build-debug/CMakeFiles/CargaElectrica.dir/Grupo.cpp.o"
   "/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/CargaElectrica/main.cpp" "/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/CargaElectrica/cmake-build-debug/CMakeFiles/CargaElectrica.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

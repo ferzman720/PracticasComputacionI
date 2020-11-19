@@ -143,6 +143,33 @@ CargaElectrica/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CargaElectrica.dir/build.make CMakeFiles/CargaElectrica.dir/build
 .PHONY : CargaElectrica/fast
 
+Grupo.o: Grupo.cpp.o
+
+.PHONY : Grupo.o
+
+# target to build an object file
+Grupo.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CargaElectrica.dir/build.make CMakeFiles/CargaElectrica.dir/Grupo.cpp.o
+.PHONY : Grupo.cpp.o
+
+Grupo.i: Grupo.cpp.i
+
+.PHONY : Grupo.i
+
+# target to preprocess a source file
+Grupo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CargaElectrica.dir/build.make CMakeFiles/CargaElectrica.dir/Grupo.cpp.i
+.PHONY : Grupo.cpp.i
+
+Grupo.s: Grupo.cpp.s
+
+.PHONY : Grupo.s
+
+# target to generate assembly for a file
+Grupo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CargaElectrica.dir/build.make CMakeFiles/CargaElectrica.dir/Grupo.cpp.s
+.PHONY : Grupo.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -179,6 +206,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... CargaElectrica"
+	@echo "... Grupo.o"
+	@echo "... Grupo.i"
+	@echo "... Grupo.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

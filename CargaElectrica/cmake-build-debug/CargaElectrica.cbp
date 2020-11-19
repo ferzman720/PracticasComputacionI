@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/CargaElectrica/Grupo.cpp">
+			<Option target="CargaElectrica"/>
+		</Unit>
+		<Unit filename="/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/CargaElectrica/Grupo.h">
+			<Option target="CargaElectrica"/>
+		</Unit>
 		<Unit filename="/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/CargaElectrica/main.cpp">
 			<Option target="CargaElectrica"/>
 		</Unit>
