@@ -1,0 +1,3 @@
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/CargaElectrica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/CargaElectrica/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/CargaElectrica/cmake-build-debug/CMakeFiles/CargaElectrica.dir
