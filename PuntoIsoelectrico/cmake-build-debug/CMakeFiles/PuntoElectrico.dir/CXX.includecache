@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/PuntoElectrico/Grupo.h
+string
+-
+
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/PuntoElectrico/Molecula.cpp
+Molecula.h
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/PuntoElectrico/Molecula.h
+string
+-
+vector
+-
+iostream
+-
+
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/PuntoElectrico/Molecula.h
+string
+-
+vector
+-
+Grupo.h
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/PuntoElectrico/Grupo.h
+
