@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/untitled/Bodega.cpp
+Bodega.h
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/untitled/Bodega.h
+iostream
+-
+
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/untitled/Bodega.h
+string
+-
+vector
+-
+
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/untitled/main.cpp
+iostream
+-
+string
+-
+array
+-
+Bodega.h
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/untitled/Bodega.h
+
