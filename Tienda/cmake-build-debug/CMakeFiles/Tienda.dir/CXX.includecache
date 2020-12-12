@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/Tienda/Almacen.cpp
+Almacen.h
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/Tienda/Almacen.h
+
+/Users/fernandanayeliguzmanrodriguez/Documents/GitHub/PracticasComputacionI/Tienda/Almacen.h
+vector
+-
+string
+-
+
